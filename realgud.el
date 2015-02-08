@@ -105,6 +105,7 @@
    '(
      "./realgud/common/track-mode"
      "./realgud/debugger/bashdb/bashdb"
+     "./realgud/debugger/cdb/cdb"
      "./realgud/debugger/gdb/gdb"
      "./realgud/debugger/gub/gub"
      "./realgud/debugger/jdb/jdb"
